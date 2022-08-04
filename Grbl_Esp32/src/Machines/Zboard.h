@@ -1,6 +1,5 @@
-#define MACHINE_NAME            "Zen v4"
+#define MACHINE_NAME            "YFSTUDIO Zboard V4"
 #define DISPLAY_CODE_FILENAME   "Custom/oled_basic.cpp"
-#define CUSTOM_CODE_FILENAME    "Custom/zen_v4.cpp"
 
 #define STEPPERS_DISABLE_PIN    GPIO_NUM_0
 
